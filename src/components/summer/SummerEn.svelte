@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="sv">
+
+<head>
+    <meta charset="utf-8">
+    <!--1. Koden nedan namnger titeln på sidan -->
+    <title>Benny</title>
+    <link rel="stylesheet" href="../../css/styles.css">
+</head>
+<nav>
+    <!-- Main navigation -->
+    <ul class="navbar">
+        <li class="meny"><a href="../general/GeneralKnowledgeEn.svelte">General dog knowledge</a>
+        <li class="meny"><a href="../about/AboutBennyEn.svelte">About Benny</a>
+        <li class="meny"><a href="../car/CarRidingEn.svelte">Car riding</a>
+        <li class="meny"><a href="../food/FoodEn.svelte">Food</a>
+        <li class="meny"><a href="../commands/CommandsEn.svelte">Commands</a>
+        <li class="meny"><a href="../play/PlayEn.svelte">Play</a>
+        <li class="meny"><a href="../training/TrainingEn.svelte">Training</a>
+        <li class="meny meny-current"><a href="./Summer.html">Summer</a>
+        <li class="meny"><a href="../winter/winter-en.svelte">Winter</a>
+
+
+
+    </ul>
+</nav>
+
+<body>
+    <h1>Summer for dogs</h1>
+    <p>The hot summer months for dogs can be tough. When the temperature goes over 20 celsius, you need to be extra
+        cautious. Try to do a longer walk in the morning when it is cool and only do a very short walk during mid day to
+        let the dog relieve themselves.
+        Later in the evening, you can take a little longer walk if the dog seems active and energetic.</p>
+    <p>Another thing that is important to keep in mind during spring and summer is to give the dog tick repellent,
+        consult your veterinarian what repellent to use.</p>
+
+    <h2>Making sure the dog is cool enough</h2>
+    <p>It is very important to keep track so the dog doesn't get dehydrated or get a heat-stroke. Later down on this
+        page you will see the symptoms.</p>
+    <b></b>Here are some advice on what to do:</b>
+    <br>
+    <img class="ImageLeft" src="../../images/cooling_mat.jpg">
+    <h3>Outdoors</h3>
+    <ul>
+        <li>
+            Avoid walking on the hot asfalt in the sun when it is warm outside. Better to walk in the shade and/or on
+            the grass. Keep the walks short and don't make the dog run or play outside.</li>
+        <li>Bring fresh water on every walk and offer mid-walk</li>
+        <li>Take pauses during the walk where the dog (and you) can rest</li>
+    </ul>
+    <h3>Indoors</h3>
+    <ul>
+        <li>Turn on the AC indoors and put out the cooling mat</li>
+        <li>After walks, take a wet towel and cool down the dog's belly and paws</li>
+        <li>Make him lie on the cooling mat and offer fresh water, you can also spray him with water</li>
+        <li>Let the dog rest</li>
+    </ul>
+    <br>
+    <img class="imageRight" src="../../images/golden_tongue.jpg">
+    <h3 class="h2">Be Alert to Dehydration and Heatstroke</h3>
+    <p> A dog's normal temperature is approx 38.5 celsius. If the temperature reaches above 41 degrees, it is dangeorus
+        for the dog.</p>
+
+    <h4>Signs for dehydration in dogs </h4>
+    <p> Dogs can become dehydrated when more fluids leave the body than it takes in. They lose fluids through
+        panting,
+        urinating, and even from evaporation through their paws. If you see any of the following symptoms, the dog
+        needs
+        rehydration and replacement of electrolytes as soon as possible:</p>
+    <ul>
+        <li>Excessive Panting</li>
+        <li>Dry gums and nose</li>
+        <li>Thick saliva</li>
+        <li>Lethargy</li>
+        <li>Sunken eyes</li>
+        <li>Loss of elasticity in the skin</li>
+    </ul>
+    <p>A quick check on hot days is to lift/pull out the scruff a little bit, it should instantly go back to normal.
+        If
+        it goes back slowly (slower than normal), the dog can be dehydrated. You should also check the mouth as
+        mentioned above, the saliva should be wet and the gums should not be too pale nor too dark.</p>
+    <p>In case you see signs of dehydration, just giving the dog water to drink might not be enough. You can make
+        homemade fluid replacement on very hot days. <br><br><b>Recipe:</b>
+    <ul>
+        <li>500 ml water</li>
+        <li>0.5 tablespoon honey</li>
+        <li>0.5 tablespoon salt</li>
+    </ul>
+    <ol>
+        <li>Heat up the water and put aside.</li>
+        <li>Add salt and honey to the water and stir until desolved.</li>
+        <li>Let cool and then give 1 tablespoon 2-3 times an hour.</li>
+        <li>You can store the mixture in the refridgerator for a few days.</li>
+        <li>If the dog wont drink it, you can add it to some cold chicken broth (boiled chicken).</li>
+    </ol>
+    </p>
+    <h4>Heatstroke</h4>
+    <p>Heatstroke can be the serious and often fatal result of a dog’s prolonged exposure to excessive heat. Heatstroke
+        usually occurs when high ambient temperature overcomes the dog’s ability to dissipate heat. The degree of damage
+        is
+        determined by how high a temperature is reached and how long the animal is exposed. Below are the signs of
+        heatstroke and the actions you should take if your dog is overcome.</p>
+    Early Stages of heatstroke: <br>
+    <img class="imageRight" src="../../images/gum_color.jpg">
+    <ul>
+        <li>Heavy panting</li>
+        <li>Rapid breathing</li>
+        <li>Excessive drooling</li>
+        <li>Bright red gums and tongue</li>
+        <li>Difficulty maintaining balance</li>
+    </ul>
+    Advanced Stages:
+    <ul>
+        <li>White or blue gums</li>
+        <li>Lethargy, unwillingness to move</li>
+        <li>Uncontrollable urination or defecation</li>
+        <li>Labored, noisy breathing</li>
+        <li>Shock</li>
+    </ul>
+
+    <p> If you think the dog has a heatstroke, you need to <b>ACT FAST</b>. Make sure you contact your vet immediately.
+
+    <p>While contacting the vets:</p>
+
+    <ul>
+        <li>Move the dog to a shaded and cool area</li>
+        <li> Keep them calm and still</li>
+        <li>Put them on top of a cool wet towel, cooling mat or place them in the breeze of a fan</li>
+        <li>Allow the dog to drink small amounts of cool water</li>
+        <li>Pour cool water over the dog’s feet, ears and head. <u>Never</u> use ice or very cold water as this can
+            cause shock</li>
+        <li>Gradually start to move cool water over their body but not too much that they start shivering.</li>
+        <li> If possible, continue cooling your dog on the way to your vet</li>
+    </ul>
+</body>
+
+</html>

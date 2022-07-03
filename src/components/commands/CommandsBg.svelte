@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="sv">
+
+<head>
+    <meta charset="utf-8">
+    <!--1. Koden nedan namnger titeln på sidan -->
+    <title>Benny</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<nav>
+    <!-- Main navigation -->
+    <ul class="navbar">
+        <li class="meny"><a href="../general/GeneralKnowledgeBg.svelte">Полезни факти за кучетата</a>
+        <li class="meny"><a href="../about/AboutBennyBg.svelte">За Бени</a>
+        <li class="meny"><a href="../car/CarRidingBg.svelte">Возене с кола</a>
+        <li class="meny"><a href="../food/FoodBg.svelte">Храна</a>
+        <li class="meny meny-current"><a href="./Commands.html">Команди</a>
+        <li class="meny"><a href="../play/PlayBg.svelte">Игра</a>
+        <li class="meny"><a href="../training/TrainingBg.svelte">Трениране</a>
+        <li class="meny"><a href="../summer/SummerBg.svelte">Лято</a>
+        <li class="meny"><a href="../winter/winter-bg.svelte">Зима</a>
+
+
+
+
+    </ul>
+</nav>
+
+<body>
+    <h1> List of commands</h1>
+    <ul>
+        <li>Сит/седни - да седне
+            <iframe width="420" height="315" src="https://www.youtube.com/embed/VObMI5QC9A4">
+            </iframe>
+        </li>
+        <li>Даун/долу - да леген
+            <!-- <iframe width="420" height="315" src="https://www.youtube.com/embed/VObMI5QC9A4">
+            </iframe> -->
+        </li>
+        <li>Стенд - да стане на четири крака
+            <!-- <iframe width="420" height="315" src="https://www.youtube.com/embed/VObMI5QC9A4">
+            </iframe> -->
+        </li>
+        <li>Назад - да отстъпи назад
+            <!-- <iframe width="420" height="315" src="https://www.youtube.com/embed/VObMI5QC9A4">
+            </iframe> -->
+        </li>
+        <li>Поо - да даде лапа
+            <iframe width="420" height="315" src="https://www.youtube.com/embed/Kz8bPuGQtlU">
+            </iframe>
+        </li>
+        <li>Хай файв - да даде пет
+            <iframe width="420" height="315" src="https://www.youtube.com/embed/Kz8bPuGQtlU">
+            </iframe>
+        </li>
+        <li>Гив ми тен - да даде десет
+            <iframe width="420" height="315" src="https://www.youtube.com/embed/Kz8bPuGQtlU">
+            </iframe>
+        </li>
+        <li>Стей - да стои на място
+            <!-- <iframe width="420" height="315" src="https://www.youtube.com/embed/VObMI5QC9A4">
+            </iframe> -->
+        </li>
+        <li>Тап - да пипне дланта ви с нос
+            <iframe width="420" height="315" src="https://www.youtube.com/embed/EMVo3_RwmSw">
+            </iframe>
+        </li>
+        <li>Тап - да седне до вас
+            <iframe width="420" height="315" src="https://www.youtube.com/embed/R2qVT_JjWJA">
+            </iframe>
+        </li>
+        <li>Битуийн - да седне между краката ви
+            <iframe width="420" height="315" src="https://www.youtube.com/embed/Zrqpy1094hA">
+            </iframe>
+        </li>
+        <li>Летс гоу - да тръгне с вас
+        </li>
+        <li>Сърч - да търси (евкалип или храна)</li>
+        <li>Бени, ела - да дойде при вас
+            <iframe width="420" height="315" src="https://www.youtube.com/embed/VObMI5QC9A4">
+            </iframe>
+        </li>
+    </ul>
+    <img class="imageRight" src="../../images/recall.jpg">
+
+    <h2>Повикване (Бени, ела)</h2>
+
+
+    <p>To have a good recall is important for many dog owners. If you don't know 100% that your dog will come back when
+        you call them outside, you should use a long line. To achieve a good recall, it takes a lot of practise in
+        different situations and with distractions. If your dog knows how to come back inside of the house with no
+        distractions, next step is to add distractions. You gradually need to build up the difficulty level and to
+        advance slowly.
+
+        <br>
+        <br>
+        <u>ONLY</u> use the recall word (Benny Eла/Ела) when you are planning on doing a proper recall
+        and when you have a reward for the dog (toy/good treats). It needs to be very rewarding to come back to you and
+        you <b>always</b> need to praise the dog!
+    </p>
+    <p> When you practise recall you should bring really good rewards. For example: the blue toy (snake) and chicken
+        liver. When Benny comes back, say "BRAVO" followed up by the reward (toy or treats).</p>
+
+
+</body>
+
+</html>

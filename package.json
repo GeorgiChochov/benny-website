@@ -1,0 +1,21 @@
+{
+  "name": "benny-name-generator",
+  "version": "1.0.0",
+  "main": "index.html",
+  "author": "GeorgiChochov <g.chochov@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5",
+    "parcel-plugin-svelte": "^4.0.9",
+    "sass": "^1.53.0",
+    "svelte": "^3.48.0",
+    "yarn-upgrade-all": "^0.7.1"
+  },
+  "dependencies": {
+    "marked": "^4.0.17"
+  }
+}

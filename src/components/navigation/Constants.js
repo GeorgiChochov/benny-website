@@ -1,0 +1,12 @@
+export const ABOUT = "about"
+export const CAR = "car"
+export const COMMANDS = "commands"
+export const FOOD = "food"
+export const GENERAL = "general"
+export const PLAY = "play"
+export const SUMMER = "summer"
+export const TRAINING = "training"
+export const WINTER = "winter"
+export const EN = "en"
+export const BG = "bg"
+
