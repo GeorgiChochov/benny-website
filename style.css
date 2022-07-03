@@ -1,0 +1,65 @@
+h1,
+h2,
+h3,
+h4 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.h2 {
+  color: red;
+}
+
+p {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.navbar {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: black;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-family: merriweather, helvetica, ubuntu, san-serif;
+}
+
+li a:hover {
+  background-color: #a50000;
+}
+
+a:active {
+  text-decoration: underline;
+}
+
+.meny {
+  float: left;
+}
+
+.meny-current {
+  text-decoration-line: underline;
+}
+
+.imageRight {
+  float: right;
+  margin: 10px;
+  width: 40%;
+}
+
+.ImageLeft {
+  float: left;
+  margin-right: 20px;
+  width: 35%;
+}
+
+.treat {
+  float: left;
+  margin-right: 20px;
+  width: 25%;
+}
